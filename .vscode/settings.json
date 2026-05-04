@@ -1,0 +1,18 @@
+{
+    "chat.editing.explainChanges.enabled": true,
+    "files.simpleDialog.enable": true,
+    "explorer.fileNesting.enabled": true,
+    "github.copilot.chat.codesearch.enabled": true,
+    "github.copilot.chat.copilotMemory.enabled": true,
+    "github.copilot.chat.alternateGptPrompt.enabled": true,
+    "github.copilot.chat.alternateGeminiModelFPrompt.enabled": true,
+    "github.copilot.chat.anthropic.tools.websearch.enabled": true,
+    "github.copilot.chat.githubMcpServer.enabled": true,
+    "github.copilot.chat.gpt54ConcisePrompt.enabled": true,
+    "github.copilot.chat.notebook.enhancedNextEditSuggestions.enabled": true,
+    "github.copilot.chat.notebook.followCellExecution.enabled": true,
+    "github.copilot.chat.responsesApi.promptCacheKey.enabled": true,
+    "github.copilot.chat.responsesApiContextManagement.enabled": true,
+    "github.copilot.chat.responsesApi.toolSearchTool.enabled": true,
+    "github.copilot.chat.switchAgent.enabled": true
+}
