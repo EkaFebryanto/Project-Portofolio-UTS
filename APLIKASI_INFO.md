@@ -1,7 +1,7 @@
 # MyPorto - Aplikasi Portfolio
 
 ## Deskripsi
-MyPorto adalah aplikasi portfolio sederhana yang dibuat menggunakan Flutter. Aplikasi ini menampilkan semua hasil praktek dari pembelajaran Praktikum Pemrograman Aplikasi Bergerak.
+MyPorto adalah aplikasi portfolio sederhana yang dibuat menggunakan Flutter. Aplikasi ini menampilkan semua hasil praktek dari pembelajaran Praktikum Pemrograman Aplikasi Bergerak..
 
 ## Struktur Aplikasi
 
